@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Our One Page Website</title>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+</head>
+<body>
+	<div class="container-fluid">
+		<div class="jumbotron">
+			<a href="#">Home</a>	
+			<a href="#">AboutUs</a>	
+			<a href="#">ContactUs</a>	
+			<a href="#">Login</a>	
+			<a href="#">SignUp</a>		
+		</div>
+	</div>
+	<div id="aboutus">
+		<p>Lorem ipsum dolor</p>
+
+</body>
+</html>
